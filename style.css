@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+}
+
+#grid {
+    width: 500px;
+    height: 500px;
+    margin: auto;
+}
+
+#grid div {
+    width: 98px;
+    height: 98px;
+    border: 1px solid black;
+    float: left;
+}
+
+.water {
+    background-color: lightskyblue;
+}
+
+.rock {
+    background-color: grey;
+}
+
+.grass {
+    background-color: greenyellow;
+}
